@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="30cm" height="4cm" viewBox="58 398 583 63" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="60" y="400" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="400" width="140" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="130" y="433.881">
+      <tspan x="130" y="433.881">Problem</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="280" y="400" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="400" width="140" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="350" y="433.881">
+      <tspan x="350" y="433.881">Solver</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="500" y="400" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="500" y="400" width="140" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="570" y="433.881">
+      <tspan x="570" y="433.881">Result</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="200" y1="430" x2="270.264" y2="430"/>
+    <polygon style="fill: #000000" points="277.764,430 267.764,435 270.264,430 267.764,425 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="277.764,430 267.764,435 270.264,430 267.764,425 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="420.99" y1="430" x2="490.264" y2="430"/>
+    <polygon style="fill: #000000" points="497.764,430 487.764,435 490.264,430 487.764,425 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="497.764,430 487.764,435 490.264,430 487.764,425 "/>
+  </g>
+</svg>

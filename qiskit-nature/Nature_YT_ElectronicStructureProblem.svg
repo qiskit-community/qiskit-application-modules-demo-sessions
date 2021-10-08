@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="43cm" height="15cm" viewBox="39 -1 843 282" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="0" width="560" height="280"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="0" width="560" height="280"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="60" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="60" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="93.8813">
+      <tspan x="170" y="93.8813">ElectronicStructureDriver</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="60" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x="360" y="60" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="470" y="93.8813">
+      <tspan x="470" y="93.8813">GroupedElectronicProperty</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="360" y="200" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="360" y="200" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="470" y="233.881">
+      <tspan x="470" y="233.881">BaseTransformer</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="60" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x="660" y="60" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="770" y="93.8813">
+      <tspan x="770" y="93.8813">FermionicOp</tspan>
+    </text>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="80" y="40">
+    <tspan x="80" y="40">ElectronicStructureProblem</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="280" y1="90" x2="350.264" y2="90"/>
+    <polygon style="fill: #000000" points="357.764,90 347.764,95 350.264,90 347.764,85 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="357.764,90 347.764,95 350.264,90 347.764,85 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="415" y1="120" x2="415" y2="190.264"/>
+    <polygon style="fill: #000000" points="415,197.764 410,187.764 415,190.264 420,187.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="415,197.764 410,187.764 415,190.264 420,187.764 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="525" y1="200" x2="525" y2="129.736"/>
+    <polygon style="fill: #000000" points="525,122.236 530,132.236 525,129.736 520,132.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="525,122.236 530,132.236 525,129.736 520,132.236 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="580" y1="90" x2="650.264" y2="90"/>
+    <polygon style="fill: #000000" points="657.764,90 647.764,95 650.264,90 647.764,85 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.764,90 647.764,95 650.264,90 647.764,85 "/>
+  </g>
+</svg>

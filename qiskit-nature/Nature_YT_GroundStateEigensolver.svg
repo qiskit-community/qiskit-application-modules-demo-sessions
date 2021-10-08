@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="56cm" height="17cm" viewBox="-242 539 1103 323" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="40" y="540" width="520" height="220"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="40" y="540" width="520" height="220"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="340" y="580">
+    <tspan x="340" y="580">GroundStateEigensolver</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="60" y="580" width="180" height="140"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="60" y="580" width="180" height="140"/>
+  </g>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:700" x="94.3" y="620">
+    <tspan x="94.3" y="620">QubitConverter</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="80" y="640" width="140" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="80" y="640" width="140" height="60"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="673.881">
+      <tspan x="150" y="673.881">QubitMapper</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-240" y="640" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x="-240" y="640" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-130" y="673.881">
+      <tspan x="-130" y="673.881">FermionicOp</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="180" y="800" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x="180" y="800" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="290" y="833.881">
+      <tspan x="290" y="833.881">QubitOperator</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="320" y="640" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="320" y="640" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="430" y="673.881">
+      <tspan x="430" y="673.881">MinmumEigensolver(Factory)</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="640" y="640" width="220" height="60"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 10; stroke: #000000" x="640" y="640" width="220" height="60"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="750" y="673.881">
+      <tspan x="750" y="673.881">AlgorithmResult</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-20" y1="670" x2="70.2639" y2="670"/>
+    <polygon style="fill: #000000" points="77.7639,670 67.7639,675 70.2639,670 67.7639,665 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="77.7639,670 67.7639,675 70.2639,670 67.7639,665 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="540" y1="670" x2="629.259" y2="670"/>
+    <polygon style="fill: #000000" points="636.759,670 626.759,675 629.259,670 626.759,665 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="636.759,670 626.759,675 629.259,670 626.759,665 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="150,720 150,830 170.264,830 "/>
+    <polygon style="fill: #000000" points="177.764,830 167.764,835 170.264,830 167.764,825 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="177.764,830 167.764,835 170.264,830 167.764,825 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="290,800 290,670 310.264,670 "/>
+    <polygon style="fill: #000000" points="317.764,670 307.764,675 310.264,670 307.764,665 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="317.764,670 307.764,675 310.264,670 307.764,665 "/>
+  </g>
+</svg>
