@@ -1,3 +1,5 @@
+[![Tests](https://github.com/qiskit-community/qiskit-application-modules-demo-sessions/actions/workflows/test.yml/badge.svg)](https://github.com/qiskit-community/qiskit-application-modules-demo-sessions/actions/workflows/test.yml)
+
 # qiskit-application-modules-demo-sessions
 
 This repo hosts demo notebooks for the Qiskit application modules demo sessions hosted on Qiskit YouTube.
