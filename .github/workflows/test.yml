@@ -35,6 +35,13 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install tox
+      - name: Remove (skip) the Qiskit Nature tutorial if on Windows
+        # (We must skip it, as pyscf is not available on Windows.)
+        shell: bash
+        run: |
+          if [ "$RUNNER_OS" == "Windows" ]; then
+            rm qiskit-nature/Qiskit_Nature_YouTube_Tutorial.ipynb
+          fi
       - name: Test using tox environment
         shell: bash
         run: |
